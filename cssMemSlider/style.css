@@ -36,19 +36,19 @@ body {
 }
 
 .item_1 {
-  background-image: url("/cssMemSlider/cssMemSlider/assets/img/1.jpg");
-}
-.item_2 {
-  background-image: url("/cssMemSlider/cssMemSlider/assets/img/2.jpg");
-}
-.item_3 {
   background-image: url("/cssMemSlider/cssMemSlider/assets/img/3.jpg");
 }
+.item_2 {
+  background-image: url("/cssMemSlider/cssMemSlider/assets/img/1.jpg");
+}
+.item_3 {
+  background-image: url("/cssMemSlider/cssMemSlider/assets/img/2.jpg");
+}
 .item_4 {
-  background-image: url("/cssMemSlider/cssMemSlider/assets/img/4.jpg");
+  background-image: url("/cssMemSlider/cssMemSlider/assets/img/5.jpg");
 }
 .item_5 {
-  background-image: url("/cssMemSlider/cssMemSlider/assets/img/5.jpg");
+  background-image: url("/cssMemSlider/cssMemSlider/assets/img/4.jpg");
 }
 
 .slider__description {
