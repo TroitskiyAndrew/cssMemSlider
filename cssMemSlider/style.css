@@ -58,7 +58,6 @@ body {
   max-width: calc(100% - 220px);
   font-size: 22px;
   transition: opacity 0.5s ease-in;
-  padding-top: 10px;
 }
 
 .slider__description_hidden {
