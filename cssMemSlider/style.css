@@ -4,6 +4,7 @@ body {
 
 .slider {
   width: 80%;
+  min-width: 220px;
   margin: 0 auto;
   padding: 20px;
   display: flex;
@@ -93,4 +94,17 @@ body {
   background-color: aliceblue;
   border-radius: 50%;
   border: 2px solid transparent;
+}
+
+@media (max-width: 420px) {
+  .slider {
+    flex-direction: column;
+  }
+  .slider__description {
+    order: 1;
+    max-width: 100%;
+  }
+  .slider__controls {
+    margin: 0 auto;
+  }
 }
